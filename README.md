@@ -1,40 +1,36 @@
-<div align="center">
+# Daniel L. Tobing
 
+Informatics student at President University (final semester), focusing on AI and data analysis. Currently an AI Engineer Intern.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CFF&center=true&vCenter=true&width=560&lines=Informatics+Student+%40+President+University;AI+Engineer+Intern;Machine+Learning+%26+Data+Analysis" alt="Typing SVG" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-l-tobing-a70237410)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danieltobing.id@gmail.com)
 
-<br/><br/>
+## About
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-l-tobing-a70237410)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieltobing.id@gmail.com)
+I build machine learning projects end to end: data analysis, modeling, validation, and deployment. I care about validating results honestly and being clear about what a model can and cannot do.
 
-</div>
+## Featured Project
 
----
+**[Oil Palm Leaf Disease Detection](https://github.com/danieltobingid-lang/oil-palm-leaf-disease-detection)**
 
-## 👨‍💻 About Me
+A deep learning model (EfficientNet-B0 with Grad-CAM explanations) that classifies close-up oil palm leaf images as healthy or diseased, deployed as a Streamlit web demo.
 
-Final-semester **Informatics** student at **President University**, focusing on **AI & Data Analysis**.
-I enjoy turning data into useful AI solutions, from analysis and modeling to deployment.
+- Validated by photo batch rather than a random split, to reduce shortcut learning: 98.9% accuracy in leave-cartons-out cross-validation.
+- Checked against a color-only baseline and a grayscale experiment.
+- Not yet validated on photos from external sources (documented in the project's limitations).
 
-## 🛠️ Tech Stack
+[Live demo](https://oil-palm-leaf-disease-detection-7k3zkjgnwcwji53ek9y7he.streamlit.app/) · [Source code](https://github.com/danieltobingid-lang/oil-palm-leaf-disease-detection)
 
-<div align="center">
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-</div>
+## Contact
 
-
-
-## 📫 Let's Connect
-
-Open for collaboration and opportunities in AI and data analysis.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
+Open to collaboration and opportunities in AI and data analysis. Reach me on [LinkedIn](https://www.linkedin.com/in/daniel-l-tobing-a70237410) or by email.
